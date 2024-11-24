@@ -1,0 +1,7 @@
+Some of the HHKB Lite 2 keyboards have a different membrane matrix layout from others.  There are two versions
+in this commit tree.  One has a modified keyboard.json file and the other uses the one from the original firmware
+(https://github.com/thirteen37/HHKB-Lite-2-Teensy).
+This repository is forked from the qmk-vial repository (github.com:vial-kb/vial-qmk.git) which included the
+original firmware for the HHKB-Lite-2-Teensy.  This fork has adapted that firmware to VIAL and also
+includes a commit with a slightly different matrix layout to accomdate a different version of the keyboard
+hardware.
